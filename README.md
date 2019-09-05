@@ -5,6 +5,7 @@
  In this article we will learn how to add Custom Fonts in Flutter Application. We will add .ttf fonts in this example. Google Fonts provide free fonts so we will download fonts from there. We will add Pacifico and RobotoCondensed fonts in this example. So let’s add Custom Fonts in Flutter app in below example.
 
 ## Output:
+
 ![alt text](https://raw.githubusercontent.com/myvsparth/flutter_custom_fonts/master/screenshots/1.png)
 
 ## Steps:
@@ -13,6 +14,7 @@
 
  Step 2: 
  Now, Download fonts from Google Fonts or from other site and put the fonts project. Create a folder named as “fonts” under project root directory and put the fonts in to that folder. Check out below screenshot for more understanding.
+ 
 ![alt text](https://raw.githubusercontent.com/myvsparth/flutter_custom_fonts/master/screenshots/2.png)
 
  Step 3: 
